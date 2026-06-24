@@ -10,6 +10,7 @@ MESSAGES = [
     "Estes gajos são uma de merda",
     "Estes gajos não jogam um caralho",
     "Odeio este jogo",
+    "Gonçalo, baitaste-me bro",
 ]
 
 if st.button("Carrega aqui"):
